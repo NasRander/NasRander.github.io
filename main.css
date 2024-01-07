@@ -1,0 +1,23 @@
+﻿
+html{
+    font-size: 16px;
+    font-family: Calibri;
+}
+
+a {
+    color: darkcyan;
+    text-decoration: blink;
+}
+
+    a:hover {
+        color: aquamarine;
+    }
+
+    a:visited {
+        color: burlywood;
+    }
+
+body {
+    background-color: #343541;
+    color: #ffffff;
+}
